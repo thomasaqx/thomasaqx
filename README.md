@@ -23,16 +23,11 @@ Estudante de Sistemas de Informação na FIAP, sempre com a mentalidade de quem 
 <br/>
 
 ## 📊GitHubs Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thomasaqz_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thomasaqx_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=thomasaqx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  
 
 <img 
       align="left" 
