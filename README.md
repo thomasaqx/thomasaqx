@@ -40,8 +40,12 @@ Estudante de Sistemas de Informação na FIAP, sempre com a mentalidade de quem 
 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## 💻Meus Projetos
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bailooon&repo=Cadastro-Usuarios&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thomasaqx/Checkpoint_Ms_2-semestre)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thomasaqx&repo=Checkpoint_Ms_2-semestre&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thomasaqx/Checkpoint_Ms_2-semestre)
 
 
