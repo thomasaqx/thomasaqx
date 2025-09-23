@@ -20,7 +20,7 @@ Estudante de Sistemas de Informação na FIAP, sempre com a mentalidade de quem 
 <br/>
 
 ## 📊GitHubs Stats
-
+<div style="display: inline_block"><br>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -35,7 +35,7 @@ Estudante de Sistemas de Informação na FIAP, sempre com a mentalidade de quem 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasaqx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+</div>
 
 
 <br/>
