@@ -1,8 +1,8 @@
 ## Prazer, Thomas.
 
-- 🔭 Hoje trabalho com suporte remoto.
-- 🌱 Estudando a plataforma .NET
-- ⚡ Fato curioso: já dormi em uma caverna
+- ## 🤝Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-bailon-755bb7260/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:matheus@bailon.com.br)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Thomas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
