@@ -44,8 +44,7 @@ Sou estudante de Sistemas de Informação na **FIAP**, com foco em desenvolvimen
 ---
 
 ## 💻 Meus Projetos
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-  <a href="https://github.com/thomasaqx/Checkpoint_Ms_2-semestre">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasaqx&repo=Checkpoint_Ms_2-semestre&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Card de Repositório do Checkpoint_Ms_2-semestre">
-  </a>
-  </div>
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thomasaqx&repo=Checkpoint_Ms_2-semestre&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thomasaqx/Checkpoint_Ms_2-semestre)
+
+---
