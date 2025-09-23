@@ -1,21 +1,25 @@
+<h1 align="center">👩🏻‍💻 Thomas Abner de Queiroz</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thomasaqx/thomasaqx/main/assets/readme-header.png" alt="Header com nome Thomas Abner de Queiroz" width="100%"/>
+  Estudante de Sistemas de Informação na FIAP, sempre com a mentalidade de quem quer ir além do esperado.
 </p>
 
-## 📌 Sobre Mim
-Sou estudante de Sistemas de Informação na **FIAP**, com foco em desenvolvimento back-end e sempre em busca de novos conhecimentos para ir além do esperado.
+<p align="center">
+  <a href="https://www.linkedin.com/in/thomas-abner-de-queiroz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:thomasjml10@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" alt="Email Badge"/>
+  </a>
+  <a href="https://instagram.com/thomasthz" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</p>
 
 ---
 
-## 🔗 Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-abner-de-queiroz)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:thomasjml10@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thomasthz)
-
----
-
-## 🛠️ Habilidades
-<div style="display: flex; gap: 10px;">
+<h2 align="center">🛠️ Habilidades</h2>
+<p align="center">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
@@ -23,19 +27,20 @@ Sou estudante de Sistemas de Informação na **FIAP**, com foco em desenvolvimen
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
-</div>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
+<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
   <img 
-    align="left" 
+    align="center" 
     alt="GitHub Stats" 
     src="https://github-readme-stats.vercel.app/api?username=Thomasaqx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+  <br/>
   <img 
-    align="left" 
+    align="center" 
     alt="Top Langs" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasaqx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
@@ -43,8 +48,12 @@ Sou estudante de Sistemas de Informação na **FIAP**, com foco em desenvolvimen
 
 ---
 
-## 💻 Meus Projetos
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thomasaqx&repo=Checkpoint_Ms_2-semestre&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thomasaqx/Checkpoint_Ms_2-semestre)
-
----
+<h2 align="center">💻 Meus Projetos</h2>
+<div align="center">
+  <a href="https://github.com/thomasaqx/Checkpoint_Ms_2-semestre">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasaqx&repo=Checkpoint_Ms_2-semestre&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Card de Repositório do Checkpoint_Ms_2-semestre">
+  </a>
+  <a href="https://github.com/thomasaqx/nome-do-seu-segundo-projeto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasaqx&repo=nome-do-seu-segundo-projeto&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Card de Repositório do seu segundo projeto">
+  </a>
+</div>
