@@ -2,13 +2,10 @@
 
 Estudante de Sistemas de Informação na FIAP, sempre com a mentalidade de quem quer ir além do esperado.
 
-## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/matheus-bailon-755bb7260/](https://www.linkedin.com/in/thomas-abner-de-queiroz))
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:thomasjml10@gmail.com)
  <a href="https://instagram.com/thomasthz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  ---
- <br/>
-<br/>
 
 ###  Linguagens e Tecnologias
 <div style="display: inline_block"><br>
@@ -24,6 +21,7 @@ Estudante de Sistemas de Informação na FIAP, sempre com a mentalidade de quem 
  ---
 <br/>
 <br/>
+
 ### Estatísticas
 
 <p>
