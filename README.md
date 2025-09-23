@@ -61,8 +61,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/thomasaqx/nome-do-seu-segundo-projeto">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasaqx&repo=nome-do-seu-segundo-projeto&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Card de Repositório do seu segundo projeto">
+      <a href=https://github.com/thomasaqx/.net-fundamentos-desafio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasaqx&repo=.net-fundamentos-desafio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Card de Repositório do seu segundo projeto">
       </a>
     </td>
   </tr>
