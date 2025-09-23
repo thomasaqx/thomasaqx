@@ -52,13 +52,18 @@
 </table>
 
 ---
-
 <h2 align="center">💻 Meus Projetos</h2>
-<div align="center">
-  <a href="https://github.com/thomasaqx/Checkpoint_Ms_2-semestre">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasaqx&repo=Checkpoint_Ms_2-semestre&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Card de Repositório do Checkpoint_Ms_2-semestre">
-  </a>
-  <a href="https://github.com/thomasaqx/nome-do-seu-segundo-projeto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasaqx&repo=nome-do-seu-segundo-projeto&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Card de Repositório do seu segundo projeto">
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/thomasaqx/Checkpoint_Ms_2-semestre">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasaqx&repo=Checkpoint_Ms_2-semestre&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Card de Repositório do Checkpoint_Ms_2-semestre">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/thomasaqx/nome-do-seu-segundo-projeto">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasaqx&repo=nome-do-seu-segundo-projeto&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Card de Repositório do seu segundo projeto">
+      </a>
+    </td>
+  </tr>
+</table>
