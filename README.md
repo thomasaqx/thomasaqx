@@ -32,19 +32,24 @@
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img 
-    align="center" 
-    alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=Thomasaqx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <br/>
-  <img 
-    align="center" 
-    alt="Top Langs" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasaqx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        align="center" 
+        alt="GitHub Stats" 
+        src="https://github-readme-stats.vercel.app/api?username=Thomasaqx&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      />
+    </td>
+    <td>
+      <img 
+        align="center" 
+        alt="Top Langs" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasaqx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
