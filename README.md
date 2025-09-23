@@ -7,7 +7,7 @@ Estudante de Sistemas de Informação na FIAP, sempre com a mentalidade de quem 
  <a href="https://instagram.com/thomasthz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  ---
 
-###  Linguagens e Tecnologias
+### 🤖Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Thomas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Thomas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -22,7 +22,8 @@ Estudante de Sistemas de Informação na FIAP, sempre com a mentalidade de quem 
 <br/>
 <br/>
 
-### Estatísticas
+## 📊GitHubs Stats
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thomasaqz_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <p>
   <img 
@@ -41,3 +42,8 @@ Estudante de Sistemas de Informação na FIAP, sempre com a mentalidade de quem 
   />
 
 </p>
+
+## 💻Meus Projetos
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bailooon&repo=Cadastro-Usuarios&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/thomasaqx/Checkpoint_Ms_2-semestre)
+
+
