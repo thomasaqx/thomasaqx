@@ -56,8 +56,13 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/thomasaqx/Checkpoint_Ms_2-semestre">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasaqx&repo=Checkpoint_Ms_2-semestre&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Card de Repositório do Checkpoint_Ms_2-semestre">
+      <a href=https://github.com/thomasaqx/.net-fundamentos-desafio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasaqx&repo=.net-fundamentos-desafio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Card de Repositório do seu segundo projeto">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/thomasaqx/eurofarma_inova_admvision">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasaqx&repo=eurofarma_inova_admvision&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Card de Repositório do eurofarma_inova_admvision">
       </a>
     </td>
     <td>
