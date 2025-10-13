@@ -11,9 +11,6 @@
   <a href="mailto:thomasjml10@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" alt="Email Badge"/>
   </a>
-  <a href="https://instagram.com/thomasthz" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
 </p>
 
 ---
