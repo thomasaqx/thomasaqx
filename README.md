@@ -1,7 +1,7 @@
 <h1 align="center">👩🏻‍💻 Thomas Abner de Queiroz</h1>
 
 <p align="center">
-  Estudante de Sistemas de Informação na FIAP, sempre com a mentalidade de quem quer ir além do esperado.
+  Desenvolvedor Go | Estudante de Sistemas de Informação na FIAP, sempre com a mentalidade de quem quer ir além do esperado.
 </p>
 
 <p align="center">
