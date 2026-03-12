@@ -1,0 +1,62 @@
+syntax = "proto3";
+
+package finance;
+
+option go_package = "github.com/thomasaqx/finance-app/proto/financepb";
+
+// AccountService exposes account operations over gRPC.
+service AccountService {
+  rpc GetAccount(GetAccountRequest) returns (AccountResponse);
+  rpc ListAccounts(ListAccountsRequest) returns (ListAccountsResponse);
+}
+
+// TransactionService exposes transaction operations over gRPC.
+service TransactionService {
+  rpc CreateTransaction(CreateTransactionRequest) returns (TransactionResponse);
+  rpc GetSummary(GetSummaryRequest) returns (SummaryResponse);
+}
+
+message GetAccountRequest {
+  int64 id = 1;
+}
+
+message ListAccountsRequest {
+  int64 user_id = 1;
+}
+
+message AccountResponse {
+  int64  id       = 1;
+  int64  user_id  = 2;
+  string name     = 3;
+  string type     = 4;
+  double balance  = 5;
+  string currency = 6;
+}
+
+message ListAccountsResponse {
+  repeated AccountResponse accounts = 1;
+}
+
+message CreateTransactionRequest {
+  int64  account_id       = 1;
+  int64  to_account_id    = 2;
+  int64  category_id      = 3;
+  string type             = 4;
+  double amount           = 5;
+  string description      = 6;
+}
+
+message TransactionResponse {
+  int64  id     = 1;
+  string status = 2;
+}
+
+message GetSummaryRequest {
+  int64 account_id = 1;
+}
+
+message SummaryResponse {
+  double income  = 1;
+  double expense = 2;
+  double net     = 3;
+}
