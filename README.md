@@ -1,80 +1,129 @@
-<h1 align="center">👨🏻‍💻 Thomas Abner de Queiroz</h1>
+<h1 align="center">Thomas Abner de Queiroz</h1>
 
 <p align="center">
-  <strong>Back-End Developer • Go • Java • C# • Cloud</strong>
+  <strong>Back-End Developer | Go • Java • C# • Cloud Computing</strong>
 </p>
 
 <p align="center">
-  Estudante de Sistemas de Informação na FIAP e desenvolvedor focado em sistemas distribuídos,
-  microsserviços, cloud computing e aplicações de alta performance.
+  Desenvolvedor focado em aplicações escaláveis, microsserviços, sistemas distribuídos e computação em nuvem.
+  Atualmente atuo no desenvolvimento de soluções back-end utilizando Go, Java e C#, com experiência em arquitetura orientada a eventos,
+  mensageria, bancos de dados relacionais e serviços AWS.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thomas-abner-de-queiroz">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+
   <a href="mailto:thomasjml10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
-- 💼 Desenvolvedor Back-End
-- 🎓 Estudante de Sistemas de Informação - FIAP
-- 🌎 São Paulo - SP
+Sou desenvolvedor back-end com foco na construção de aplicações de alta performance, escalabilidade e baixa latência.
 
----
+Tenho experiência no desenvolvimento de APIs REST, microsserviços e integrações distribuídas utilizando Go, Java e C#, além de atuar com mensageria, bancos de dados relacionais e serviços em nuvem.
 
-## 🛠️ Stack Principal
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=go,java,cs,dotnet,python,postgres,mysql,redis,kafka,docker,aws,git,github,linux" />
-
-</p>
+Busco constantemente aprofundar conhecimentos em arquitetura de software, computação distribuída e plataformas cloud para construir soluções robustas e resilientes.
 
 ---
 
-## 📊 GitHub Analytics
+## Stack Principal
 
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=thomasaqx&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+<div align="center">
 
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasaqx&layout=compact&theme=tokyonight"/>
-</p>
+<img src="https://skillicons.dev/icons?i=go,java,cs,dotnet,python" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+
+</div>
 
 ---
 
-## 💻 Projetos em Destaque
+## Conhecimentos
 
-<p align="center">
+### Back-End
+
+- Go
+- Java
+- C#
+- ASP.NET
+- REST APIs
+- gRPC
+- GraphQL
+
+### Arquitetura
+
+- Microsserviços
+- Arquitetura Hexagonal
+- Clean Architecture
+- Domain Driven Design (DDD)
+- Event-Driven Architecture
+
+### Cloud & DevOps
+
+- AWS Lambda
+- ECS
+- ECR
+- S3
+- SQS
+- SNS
+- EventBridge
+- CloudWatch
+- Terraform
+- Docker
+- CI/CD
+
+### Dados & Mensageria
+
+- PostgreSQL
+- MySQL
+- Redis
+- Apache Kafka
+
+---
+
+## Projetos em Destaque
+
+<div align="center">
 
 <a href="https://github.com/thomasaqx/fintrack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasaqx&repo=fintrack&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasaqx&repo=fintrack&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/thomasaqx/task-manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasaqx&repo=task-manager&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thomasaqx&repo=task-manager&theme=tokyonight&hide_border=true" />
 </a>
 
-</p>
+</div>
 
 ---
 
-## 📚 Atualmente Estudando
+## Atualmente Estudando
 
-```text
-✓ Go 
-✓ Java
-✓ Arquiteturas de Software
-✓ Microsserviços
-✓ Apache Kafka
-✓ AWS
-✓ Kubernetes
-✓ Clean Code
+- Arquitetura de Microsserviços
+- Apache Kafka
+- Kubernetes
+- AWS
+- Engenharia de Performance
+- Sistemas Distribuídos
+
+---
+
+## Contato
+
+📍 São Paulo - SP
+
+📧 thomasjml10@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/thomas-abner-de-queiroz
