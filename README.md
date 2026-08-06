@@ -1,7 +1,7 @@
 <h1 align="center">Thomas Abner de Queiroz</h1>
 
 <p align="center">
-  <strong>Back-End Developer | Go • Java • C# • Cloud Computing</strong>
+  <strong>Back-End Developer | Go • Java • C# • Spring • Cloud Computing</strong>
 </p>
 
 <p align="center">
