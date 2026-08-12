@@ -1,0 +1,18 @@
+# Binary
+finance-api
+
+# Go workspace
+vendor/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Test artifacts
+*.test
+coverage.out
